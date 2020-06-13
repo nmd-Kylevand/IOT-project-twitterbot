@@ -1,7 +1,7 @@
 let images = [
   {
     file: 'image0001.jpg',
-    source:   'Just Room Enough Island, also known as Hub Island, is an island located in the Thousand Islands chain, belonging to New York, United States. The island is known for being the smallest inhabited island, which appears to be around 3,300 square feet (310 m2), or about one-thirteenth of an acre. Purchased by the Sizeland family in the 1950s, the island has a house, a tree, shrubs, and a small beach. https://en.wikipedia.org/wiki/Just_Room_Enough_Island'
+    source:   'Just Room Enough Island, also known as Hub Island, is an island located in the Thousand Islands chain. The island is known for being the smallest inhabited island, which appears to be around 3,300 square feet (310 m2). The island has a house, a tree, shrubs, and a small beach. https://en.wikipedia.org/wiki/Just_Room_Enough_Island'
   },
  {
     file: 'image0002.jpg',
